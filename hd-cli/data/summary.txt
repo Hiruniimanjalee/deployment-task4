@@ -1,0 +1,6 @@
+Milestone Progress Summary
+Total tasks: 5
+Completed tasks: 2
+Remaining tasks: 3
+Completion: 40.0%
+Estimated days at 3 tasks per day: 1
